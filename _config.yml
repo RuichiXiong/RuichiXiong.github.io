@@ -137,7 +137,6 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-imagemagick
-  - jekyll-seo-tag
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar

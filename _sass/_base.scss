@@ -6,10 +6,28 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+p {
+  font-size: 1.25rem;
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
+  font-size: 1.5rem;
 }
 
 table {
@@ -33,7 +51,7 @@ a, table.table a {
 }
 
 figure, img {
-  max-width: 90vw;
+  max-width: 120vw;
 }
 
 blockquote {
@@ -41,7 +59,7 @@ blockquote {
   border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 // Math
@@ -54,7 +72,7 @@ blockquote {
 // Caption
 
 .caption {
-  font-size: 0.875rem;
+  font-size: 1.5rem;
   margin-top: 0.75rem;
   margin-bottom: 1.5rem;
   text-align: center;
@@ -64,6 +82,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
+  font-size: 1.5rem;
 
   img {
     width: 100%;
@@ -99,7 +118,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: roboto;
     p {
       display: inline-block;
       margin: 0;
@@ -132,6 +151,7 @@ blockquote {
 // Navbar customization
 
 .navbar {
+  font-size: 1.5rem;
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
@@ -283,6 +303,9 @@ footer.fixed-bottom {
       text-decoration: none;
     }
   }
+  div {
+  text-align: center;
+  }
 }
 
 footer.sticky-bottom {
@@ -290,6 +313,9 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  div {
+  text-align: center;
+  }
 }
 
 // CV
@@ -309,14 +335,6 @@ footer.sticky-bottom {
         background-color: var(--global-theme-color) !important;
       }
     }
-  }
-}
-
-// Repositories
-
-@media (min-width: 768px) {
-  .repo {
-    max-width: 50%;
   }
 }
 
@@ -391,9 +409,9 @@ footer.sticky-bottom {
     }
     &.active .page-link {
       color: $white-color;
-      background-color: var(--global-theme-color);
+      background-color: var(--global-text-color);
       &:hover {
-        background-color: var(--global-theme-color);
+        background-color: var(--global-text-color);
       }
     }
   }

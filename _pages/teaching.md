@@ -1,12 +1,34 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+During 2019-2021, I worked as teaching assistant for serveral undergrad or grad courses at the University of Toronto.
 
-Organize your courses by years, topics, or universities, however you like!
+<p>&nbsp;</p>
+
+### Undergrad
+
+TA for Jack Parkinson,  Introduction to Microeconomics: A Mathematical Approach, 2021
+
+TA for Victor Yu,  Quantitative Methods in Economics I, 2020
+
+TA for Jack Parkinson,  Introduction to Microeconomics: A Mathematical Approach, 2020
+
+<p>&nbsp;</p>
+
+### Master
+
+TA for Byung Soo Lee, Managerial Economics (MBA), 2021
+
+TA for Stephan Heblich,  Topics in Innovation II, 2021
+
+TA for Stephan Heblich,  Technology, Strategy, and Policy, 2020
+
+TA for Stephan Heblich,  Topics in Innovation II, 2020
+
+TA for William Strange, Managerial Economics (MBA), 2019

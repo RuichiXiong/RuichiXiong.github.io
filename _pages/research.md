@@ -21,7 +21,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China", with Fanghao Chen and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
+"Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China", with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
 
 <font size="+1"> 
 <div style="text-align: justify">Abstract: This paper studies the importance of international lineage network in facilitating the entry of foreign firms into developing country where immature market environment deters foreign investment. We build a unique dataset on the universe of foreign firms in China that are controlled by Chinese diasporas whose surnames are used to infer their lineage groups. A novel triple-difference design exploiting variations from both the staggered opening of prefectures during the Reform Era (1981-1996) and their differential surname distributions is implemented for identification. We find that, following the prefecture-level opening shocks, the entry of diaspora firms with higher connection increase more, because lineage network facilitates information sharing and contract enforcement. On the contrary, there are no such effects following China's accession to WTO because market institutions had been improved much after the Reform Era. We also find that the lineage-driven diaspora firm entrants during early development stages functioned as industrial seeds, in the form of generating large and long-term positive spillovers on non-diaspora firm entry and investment.</div></font>
@@ -40,7 +40,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-“[以侨为桥---侨资企业与中国的外向型发展](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)”， 陈方豪， 熊瑞驰， 2022, 1(1): 4， *中国经济学*
+“[以侨为桥---侨资企业与中国的外向型发展](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)”， [陈方豪](https://fanghaochen.github.io/homepage/)， 熊瑞驰， 2022, 1(1): 4， *中国经济学*
 
  
 <p>&nbsp;</p>
@@ -50,7 +50,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-[comment]: <> ("Brain Gain on Diaspora Network", with Fanghao Chen)
+[comment]: <> ("Brain Gain on Diaspora Network", with [Fanghao Chen](https://fanghaochen.github.io/homepage/))
 
 <p>&nbsp;</p>
 

@@ -42,7 +42,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-“[以侨为桥---侨资企业与中国的外向型发展]”, *中国经济学*, 2022, 1(1):4, [陈方豪](https://fanghaochen.github.io/homepage/), 熊瑞驰
+“[以侨为桥---侨资企业与中国的外向型发展]”, *中国经济学*, 2022, 1(1):4, 与[陈方豪](https://fanghaochen.github.io/homepage/)合作
 
 [link](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)
 

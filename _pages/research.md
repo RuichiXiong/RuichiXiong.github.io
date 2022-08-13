@@ -42,9 +42,9 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-<p style="font-family: SimSun">“以侨为桥---侨资企业与中国的外向型发展”</p>， *<p style="font-family: Arial">中国经济学</p>*， 2022， 1(1):4， <p style="font-family: Arial">与</p>[<p style="font-family: Arial">陈方豪</p>](https://fanghaochen.github.io/homepage/)<p style="font-family: Arial">合作</p>
+<p style="font-family: SimSun">“以侨为桥---侨资企业与中国的外向型发展”， 中国经济学， 2022， 1(1):4， 与</p>[<p style="font-family: SimSun">陈方豪</p>](https://fanghaochen.github.io/homepage/)<p style="font-family: SimSun">合作</p>
 
-[[<p style="font-family: Arial">链接</p>](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [[pdf]({{ site.url }}/assets/pdf/pub1.pdf)]
+[[<p style="font-family: SimSun">链接</p>](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [[pdf]({{ site.url }}/assets/pdf/pub1.pdf)]
 
  
 <p>&nbsp;</p>

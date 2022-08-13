@@ -23,4 +23,4 @@ Research interests: Urban, Entrepreneurship, Innovation, Trade, Development.
 
 I am on the 2022/2023 academic job market.
 
-[comment]: <> (Here is my [CV](./assets/pdf/cv.pdf).)
+[comment]: <> (Here is my [CV]({{ site.url }}/assets/pdf/cv.pdf).)

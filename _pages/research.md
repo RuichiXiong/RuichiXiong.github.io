@@ -16,7 +16,7 @@ nav_order: 2
 "Interregional Accessibility and Firm Creation in the Fragmented Economy", Job Market Paper
 
 <font size="+1">
-<div style="text-align: justify"> Abstract: What are the effects of interregional accessibility on firm creation? I study this phenomenon in the context of international air connections between the USA and China. I provide a new measure of travel time between US CBSAs and Chinese prefectures over years and document its sharp and unevenly distributed reductions. With a novel instrument for travel time constructed from the gradual deregulation of US-China flight market, I show that the reductions on travel time to China increase firm creation in US cities. The effects of travel time reductions are larger in industries requiring many different suppliers. This motivates a quantitative spatial model with sourcing location choice, input-output structure, and firm entry decision. Estimating the model illuminates that, the 2004-2013 US-China aviation network expansion improves firm creation by 1.7% and welfare by 0.4% where 42% of the firm creation increases and 50% of the welfare gains are driven by the supplier presence across Chinese prefectures, because time reductions are larger in Chinese prefectures with higher presence of suppliers. In a counterfactual in which the flight network is expanded homogeneously by connecting all international gateway airports in US and China, the heterogeneity in supplier presence across Chinese prefectures accounts for only 1% of the aggregate effects.</div></font>
+<div style="text-align: justify"> <ins>Abstract</ins>: What are the effects of interregional accessibility on firm creation? I study this phenomenon in the context of international air connections between the USA and China. I provide a new measure of travel time between US CBSAs and Chinese prefectures over years and document its sharp and unevenly distributed reductions. With a novel instrument for travel time constructed from the gradual deregulation of US-China flight market, I show that the reductions on travel time to China increase firm creation in US cities. The effects of travel time reductions are larger in industries requiring many different suppliers. This motivates a quantitative spatial model with sourcing location choice, input-output structure, and firm entry decision. Estimating the model illuminates that, the 2004-2013 US-China aviation network expansion improves firm creation by 1.7% and welfare by 0.4% where 42% of the firm creation increases and 50% of the welfare gains are driven by the supplier presence across Chinese prefectures, because time reductions are larger in Chinese prefectures with higher presence of suppliers. In a counterfactual in which the flight network is expanded homogeneously by connecting all international gateway airports in US and China, the heterogeneity in supplier presence across Chinese prefectures accounts for only 1% of the aggregate effects.</div></font>
 
 
 <p>&nbsp;</p>
@@ -44,7 +44,7 @@ nav_order: 2
 
 “以侨为桥---侨资企业与中国的外向型发展”， *中国经济学*， 2022， 1(1):4， 与[陈方豪](https://fanghaochen.github.io/homepage/)
 
-[[链接](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [pdf](./assets/pdf/pub1.pdf)
+[[链接](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [[pdf](./assets/pdf/pub1.pdf)]
 
  
 <p>&nbsp;</p>

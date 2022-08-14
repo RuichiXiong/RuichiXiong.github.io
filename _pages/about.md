@@ -16,7 +16,7 @@ profile:
 
 <p>&nbsp;</p>
 
-Welcome to my website! I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto.
+I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto.
 
 Research interests: Urban, Entrepreneurship, Innovation, Trade, Development.
 

@@ -58,7 +58,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-## <u>Pre-doctoral Work</u>
+## <u>Pre-Doctoral Work</u>
 
 <p>&nbsp;</p>
 

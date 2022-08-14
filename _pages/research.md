@@ -44,7 +44,7 @@ nav_order: 2
 
 <a style="font-family: Microsoft Yahei">“以侨为桥---侨资企业与中国的外向型发展”， *中国经济学*， 2022， 1(1):4， 与[陈方豪](https://fanghaochen.github.io/homepage/)合作</a>
 
-[[链接](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] <a href="{{ site.url }}/assets/pdf/pub1.pdf" target="_blank">[pdf]</a>
+[[链接](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [<a href="{{ site.url }}/assets/pdf/pub1.pdf" target="_blank">pdf</a>]
 
  
 <p>&nbsp;</p>

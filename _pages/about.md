@@ -22,4 +22,4 @@ Research interests: Urban, Entrepreneurship, Innovation, Trade, Development.
 
 I am on the 2022/2023 job market.
 
-Here is my [CV](<a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">WordPress Homepage</a>).
+Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

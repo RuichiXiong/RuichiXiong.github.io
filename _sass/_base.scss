@@ -159,9 +159,6 @@ blockquote {
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
-  float: none;
-  display: block;
-  text-align: center;
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
   a:not(.active) {
@@ -173,6 +170,16 @@ blockquote {
   .dropdown-divider {
     border-top: 1px solid var(--global-divider-color) !important;
   }
+}
+.navbar ul:not(.dropdown-menu) {
+    float: none;
+    display: block;
+    text-align: center;
+}
+
+.navbar ul:not(.dropdown-menu) > li {
+    display: inline-block;
+    float: none;
 }
 .dropdown-item {
   color: var(--global-text-color);

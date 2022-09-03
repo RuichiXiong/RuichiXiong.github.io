@@ -18,14 +18,16 @@ profile:
 
 <p>&nbsp;</p>
 
-Welcome to my website! 
+Welcome to my website! My name is Ruichi Xiong.
 
 I am a Ph.D. candidate at the Rotman School of Management of University of Toronto.
 
-I am on the job market in the academic year 2022-2023. 
+In the academic year 2022-2023, I will be on the job market. 
 
 My primary research interest lies in the impacts of international geographic and social connections on local entrepreneurial and innovative activities.
 
 <ins>Research fields</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 
 Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.
+
+<ins>References</ins>: Nathaniel Baum-Snow, April Franco, William Strange

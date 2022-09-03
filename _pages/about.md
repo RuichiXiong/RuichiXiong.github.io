@@ -14,11 +14,11 @@ profile:
     
 ---
 
-<p>&nbsp;</p>
+<p style="text-align: center; font-size:40px"><b>Ruichi Xiong</b></p>
 
 <p>&nbsp;</p>
 
-<p style="text-align: center; font-size:72px"><b>Ruichi Xiong</b></p>
+<p>&nbsp;</p>
 
 Welcome to my website!
 

@@ -159,6 +159,9 @@ blockquote {
   opacity: 0.95;
 }
 .navbar .dropdown-menu {
+  float: none;
+  display: block;
+  text-align: center;
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
   a:not(.active) {

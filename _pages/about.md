@@ -14,13 +14,11 @@ profile:
     
 ---
 
-<p style="text-align: center; font-size:40px"><b>Ruichi Xiong</b></p>
-
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
-Welcome to my website!
+Welcome to my website! My name is <p style="font-size:40px"><b>Ruichi Xiong</b></p>.
 
 I am a Ph.D. candidate at the Rotman School of Management of University of Toronto.
 

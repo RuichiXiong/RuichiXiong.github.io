@@ -15,7 +15,7 @@ profile:
 ---
 
 <article lang="en">
-<p>I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto. My current researches focus on the importance of international geographic and social connections in facilitating information flow between individuals and firms in different countries.</p>
+<p style="text-align: justify">I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto. My current researches focus on the importance of international geographic and social connections in facilitating information flow between individuals and firms in different countries.</p>
 </article>
 
 <p>&nbsp;</p>

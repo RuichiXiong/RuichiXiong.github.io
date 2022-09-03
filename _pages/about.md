@@ -22,14 +22,14 @@ profile:
 
 <ins>References</ins>: 
 
-Professor Nathaniel Baum-Snow (Supervisor) 
+Professor Nathaniel Baum-Snow (Supervisor),  Rotman School of Management 
 
 Email: <a href="Nate.Baum.Snow@rotman.utoronto.ca">Nate.Baum.Snow@rotman.utoronto.ca</a>
 
-Professor April Franco 
+Professor April Franco,  Rotman School of Management
 
 Email: <a href="April.Franco@rotman.utoronto.ca">April.Franco@rotman.utoronto.ca</a>
 
-Professor William Strange
+Professor William Strange,  Rotman School of Management
 
 Email: <a href="William.Strange@rotman.utoronto.ca">William.Strange@rotman.utoronto.ca</a>

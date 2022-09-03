@@ -16,12 +16,11 @@ profile:
 
 Welcome to my website! 
 
-I am a Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto.
+I am a Ph.D. candidate at the Rotman School of Management of University of Toronto.
 
 I am on the job market in the academic year 2022-2023. 
 
-My current researches focuses on the impacts of information flow through international geographic and social connections on local entrepreneurial and innovative
-activities.
+My primary research interest lies in the impacts of international geographic and social connections on local entrepreneurial and innovative activities.
 
 <ins>Research fields</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 

@@ -11,18 +11,6 @@ profile:
   address: >
     <p, align="center"><a href="ruichi.xiong@rotman.utoronto.ca">ruichi.xiong@rotman.utoronto.ca</a> </p>
     <p, align="center">105 St. George St., Toronto, ON M5S3E6</p>
-
-.sample_test {
-  display: block;
-  margin: 0 auto;
-  width: 400px;
-  height: auto;
-}
-
-.sample_test p {
-  /* word-break: break-all; */
-  hyphens: auto;
-}
     
 ---
 

@@ -14,28 +14,15 @@ profile:
     
 ---
 
-<p style="text-align: justify;">Welcome to my website! I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto.</p>
+Welcome to my website! 
 
-I am on the 2022/2023 job market. Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.
+I am a Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto.
 
-<ins>Research interests</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
+I am on the job market in the academic year 2022-2023. 
 
-<ins>References</ins>: 
+My current researches focuses on the impacts of information flow through international geographic and social connections on local entrepreneurial and innovative
+activities.
 
-<em>Professor Nathaniel Baum-Snow (Supervisor)</em>  
+<ins>Research fields</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 
-Rotman School of Management, University of Toronto 
-
-Email: <a href="mailto:Nate.Baum.Snow@rotman.utoronto.ca">Nate.Baum.Snow@rotman.utoronto.ca</a>
-
-<em>Professor April Franco</em>
-
-Rotman School of Management, University of Toronto 
-
-Email: <a href="mailto:April.Franco@rotman.utoronto.ca">April.Franco@rotman.utoronto.ca</a>
-
-<em>Professor William Strange</em>
-
-Rotman School of Management, University of Toronto 
-
-Email: <a href="mailto:William.Strange@rotman.utoronto.ca">William.Strange@rotman.utoronto.ca</a>
+Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

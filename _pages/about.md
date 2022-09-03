@@ -22,7 +22,7 @@ profile:
 
 <ins>References</ins>: 
 
-<a href="https://sites.google.com/site/baumsnow/home" target="_blank">Nathaniel Baum-Snow (Supervisor)</a>
+<a href="https://sites.google.com/site/baumsnow/home" target="_blank">Nathaniel Baum-Snow</a> (Supervisor), Professor of Economic Analysis and Policy, <a href="Nate.Baum.Snow@rotman.utoronto.ca">Nate.Baum.Snow@rotman.utoronto.ca</a>
 
 <a href="https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Franco" target="_blank">April Franco</a>
 

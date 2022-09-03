@@ -14,6 +14,10 @@ profile:
     
 ---
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
 Welcome to my website! 
 
 I am a Ph.D. candidate at the Rotman School of Management of University of Toronto.

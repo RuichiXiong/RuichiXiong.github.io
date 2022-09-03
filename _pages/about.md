@@ -24,7 +24,7 @@ I am a Ph.D. candidate at the Rotman School of Management in University of Toron
 
 In the academic year 2022-2023, I will be on the job market. 
 
-My primary research interest lies in evaluating and understanding the impacts of <b>international geographic and social connections on local entrepreneurship, innovation, and development</b>.
+My primary research interest lies in evaluating and understanding <b>the importance of international geographic and social connections to local entrepreneurship, innovation, and development</b>.
 
 <ins>Research fields</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 

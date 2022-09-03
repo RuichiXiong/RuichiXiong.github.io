@@ -9,7 +9,7 @@ profile:
   image: home.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p, align="center"><a href="ruichi.xiong@rotman.utoronto.ca">ruichi.xiong@rotman.utoronto.ca</a> </p>
+    <p, align="center"><a href="mailto:ruichi.xiong@rotman.utoronto.ca">ruichi.xiong@rotman.utoronto.ca</a> </p>
     <p, align="center">105 St. George St., Toronto, ON M5S3E6</p>
     
 ---

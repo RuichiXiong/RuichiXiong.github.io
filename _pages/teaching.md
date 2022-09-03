@@ -11,7 +11,7 @@ During 2019-2021, I worked as teaching assistant for serveral undergrad or grad 
 
 <p>&nbsp;</p>
 
-### Undergrad
+### <ins>Undergrad</ins>
 
 TA for Jack Parkinson,  Introduction to Microeconomics: A Mathematical Approach, 2021
 
@@ -21,7 +21,7 @@ TA for Jack Parkinson,  Introduction to Microeconomics: A Mathematical Approach,
 
 <p>&nbsp;</p>
 
-### Master
+### <ins>Master</ins>
 
 TA for Byung Soo Lee, Managerial Economics (MBA), 2021
 

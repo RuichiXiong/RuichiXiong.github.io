@@ -171,16 +171,6 @@ blockquote {
     border-top: 1px solid var(--global-divider-color) !important;
   }
 }
-.navbar ul:not(.dropdown-menu) {
-    float: none;
-    display: block;
-    text-align: center;
-}
-
-.navbar ul:not(.dropdown-menu) > li {
-    display: inline-block;
-    float: none;
-}
 .dropdown-item {
   color: var(--global-text-color);
     &:hover {

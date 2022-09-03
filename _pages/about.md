@@ -28,6 +28,6 @@ My primary research interest lies in evaluating and understanding the impacts of
 
 <ins>Research fields</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 
-<ins>References</ins>: Nathaniel Baum-Snow, April Franco, William Strange
+<ins>References</ins>: Nathaniel Baum-Snow (supervisor), April Franco, William Strange
 
 Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

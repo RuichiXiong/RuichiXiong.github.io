@@ -14,16 +14,11 @@ profile:
     
 ---
 
-<p style="text-align: justify; word-spacing:-2px;">I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto. 
-I am on the 2022/2023 job market.</p>
-
-Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.
+<p style="text-align: justify; word-spacing:-2px;">I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto. I am on the 2022/2023 job market. Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.</p>
 
 <ins>Research interests</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 
-<div class="sample_test" lang="en">
-<p style="text-align: justify;"><ins>Job Market Paper</ins>: I study the effects of interregional accessibility to <strong>non-local</strong> suppliers on firm creation. With a novel instrument, I show that reduced travel time to China in recent decades facilitates firm creation in US cities by increasing entrepreneurs' accessibility to potential suppliers in China. Estimating a quantitative spatial model illuminates that the heterogeneity in supplier presence across Chinese cities accounts for about half of the aggregate impact because of the assortive matching between time reductions and supplier presence on flight network.</p>
-</div>
+<p style="text-align: justify; word-spacing:-2px;"><ins>Job Market Paper</ins>: I study the effects of interregional accessibility to <strong>non-local</strong> suppliers on firm creation. With a novel instrument, I show that reduced travel time to China in recent decades facilitates firm creation in US cities by increasing entrepreneurs' accessibility to potential suppliers in China. Estimating a quantitative spatial model illuminates that the heterogeneity in supplier presence across Chinese cities accounts for about half of the aggregate impact because of the assortive matching between time reductions and supplier presence on flight network.</p>
 
 
 

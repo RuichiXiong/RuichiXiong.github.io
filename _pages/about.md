@@ -14,9 +14,9 @@ profile:
     
 ---
 
-<p style="text-align: justify;">Welcome to my website! I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto. 
+<p style="text-align: justify;">Welcome to my website! I am a fourth-year Ph.D. candidate in the Economic Analysis and Policy Area of Rotman School of Management, University of Toronto.</p>
 
-I am on the 2022/2023 job market. Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.</p>
+I am on the 2022/2023 job market. Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.
 
 <ins>Research interests</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 

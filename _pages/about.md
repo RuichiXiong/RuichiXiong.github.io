@@ -18,7 +18,9 @@ profile:
 
 <p>&nbsp;</p>
 
-Welcome to my website! My name is Ruichi Xiong.
+<p style="text-align: center; font-size:72px"><b>Ruichi Xiong</b></p>
+
+Welcome to my website!
 
 I am a Ph.D. candidate at the Rotman School of Management of University of Toronto.
 
@@ -28,6 +30,6 @@ My primary research interest lies in the impacts of international geographic and
 
 <ins>Research fields</ins>: Urban, Entrepreneurship, Innovation, Trade, Development.
 
-Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.
-
 <ins>References</ins>: Nathaniel Baum-Snow, April Franco, William Strange
+
+Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

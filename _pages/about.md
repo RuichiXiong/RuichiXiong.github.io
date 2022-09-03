@@ -22,8 +22,8 @@ profile:
 
 <ins>References</ins>: 
 
-<a href="https://sites.google.com/site/baumsnow/home" target="_blank">Nathaniel Baum-Snow</a> (Supervisor), <a href="Nate.Baum.Snow@rotman.utoronto.ca">Nate.Baum.Snow@rotman.utoronto.ca</a>
+Professor Nathaniel Baum-Snow (Supervisor), Email: <a href="Nate.Baum.Snow@rotman.utoronto.ca">Nate.Baum.Snow@rotman.utoronto.ca</a>
 
-<a href="https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Franco" target="_blank">April Franco</a>, <a href="April.Franco@rotman.utoronto.ca">April.Franco@rotman.utoronto.ca</a>
+Professor April Franco, Email: <a href="April.Franco@rotman.utoronto.ca">April.Franco@rotman.utoronto.ca</a>
 
-<a href="https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Strange.aspx" target="_blank">William Strange</a>, <a href="William.Strange@rotman.utoronto.ca">William.Strange@rotman.utoronto.ca</a>
+Professor William Strange, Email: <a href="William.Strange@rotman.utoronto.ca">William.Strange@rotman.utoronto.ca</a>

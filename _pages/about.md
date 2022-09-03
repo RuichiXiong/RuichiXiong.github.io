@@ -18,9 +18,7 @@ profile:
 
 <p>&nbsp;</p>
 
-Welcome to my website! <p style="background-color: crimson; color: #ff0000; font-weight: bold">
-      Ruichi Xiong
-</p>
+Welcome to my website! My name is <b>Ruichi Xiong</b>.
 
 I am a Ph.D. candidate at the Rotman School of Management of University of Toronto.
 

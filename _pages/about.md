@@ -26,16 +26,16 @@ I am on the 2022/2023 job market. Here is my <a href="{{ site.url }}/assets/pdf/
 
 Rotman School of Management, University of Toronto 
 
-Email: <a href="Nate.Baum.Snow@rotman.utoronto.ca">Nate.Baum.Snow@rotman.utoronto.ca</a>
+Email: <a href="mailto:Nate.Baum.Snow@rotman.utoronto.ca">Nate.Baum.Snow@rotman.utoronto.ca</a>
 
 <em>Professor April Franco</em>
 
 Rotman School of Management, University of Toronto 
 
-Email: <a href="April.Franco@rotman.utoronto.ca">April.Franco@rotman.utoronto.ca</a>
+Email: <a href="mailto:April.Franco@rotman.utoronto.ca">April.Franco@rotman.utoronto.ca</a>
 
 <em>Professor William Strange</em>
 
 Rotman School of Management, University of Toronto 
 
-Email: <a href="William.Strange@rotman.utoronto.ca">William.Strange@rotman.utoronto.ca</a>
+Email: <a href="mailto:William.Strange@rotman.utoronto.ca">William.Strange@rotman.utoronto.ca</a>

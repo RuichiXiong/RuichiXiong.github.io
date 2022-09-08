@@ -30,7 +30,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"**Endogenous Learning, Dynamic Agglomeration, and Skill Premium over Life Cycle**"
+"**Endogenous Learning, Dynamic Agglomeration, and the Skill Premium over Life Cycle**"
 
 <font size="-1"> 
 <p style="text-align: justify"><ins>Abstract</ins>: This paper proposes a new measure on learning with time use survey data and shows that learning time is lower in big city and higher for high skill workers especially when they are young. This indicates endogenous learning-working tradeoff with skill complementarity. This paper also documents the fact that in 1980-2007 US census data city size wage elasticity firstly diverge and then converge over worker's life cycle. And the fact cannot be explained by existed literature which only considered passive experience accumulation as learning. Therefore the theoretical part of this paper introduces the empirically observed endogenous learning-working tradeoff into dynamic life cycle model nesting experience accumulation and shows that both the divergence and convergence can be accounted for under one unified framework. Furthermore, the model can also match several other novel facts presented in this paper including skill-youngness complementarity in learning time, declining skill premium gap between big and small cities over life cycle, and declining sorting of high skill workers into big city over life cycle.</p></font>
@@ -62,7 +62,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"**Does the College Graduate Village Officials Program Improve Village Governance in China?**"
+"**Does the College Graduate Village Officials Program Improve the Village Governance in China?**"
 
 <font size="-1">
 <p style="text-align: justify"><ins>Abstratct</ins>: This paper estimates the effects of sending officials from upper-level governments to rural villages on unpopular policies' implementation by evaluating the College Graduate Village Officials (CGVO) program's impacts on land expropriation and one child policy. I find that introducing CGVOs into villages does not improve the implementation of unpopular policies significantly. Then I propose a model to understand heterogeneous effects of CGVOs by accountability of village government. The model predicts smaller effects of CGVOs in villages with more accountable governments.  The empirical analysis supports the prediction by showing that the effects of CGVOs on the implementation of land expropriation and one child policy are larger in socially more fragmented villages where governments are less accountable to villagers.</p></font>

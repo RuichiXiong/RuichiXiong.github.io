@@ -13,7 +13,9 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"**Interregional Accessibility and Firm Creation in the Fragmented Economy**", *Job Market Paper*, [<a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">pdf</a>]
+"**Interregional Accessibility and Firm Creation in the Fragmented Economy**", *Job Market Paper* 
+
+[<a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">pdf</a>]
 
 <font size="-1">
 <p style="text-align: justify"> <ins>Abstract</ins>: Does the reduction in international travel time lower the entry cost for firms, especially those accessing non-local suppliers in the globally fragmented economy? I study this question in the context of recent US-China aviation network expansions, documenting sharp and unevenly distributed travel time reductions between US cities and Chinese prefectures. Employing a novel instrument for travel time constructed from the gradual deregulation of the US-China flight market, I show that the reduction in travel time to China promotes the creation of firms in US cities, more in industries that use many different suppliers. To account for the heterogeneity in supplier presence within China, I estimate a quantitative spatial model featuring sourcing location choice, input-output structure, and a firm entry decision. The model illuminates that the 2004-2013 US-China aviation network expansion increases US firm creation by 1.7%. The heterogeneity in supplier presence across Chinese prefectures drives 42% of the increase because of assortative matching between supplier presence and time reductions in the sparse US-China flight network.</p></font>
@@ -58,14 +60,14 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-## <u>Pre-Doctoral Work</u>
+[comment]: <> (## <u>Pre-Doctoral Work</u>
 
 <p>&nbsp;</p>
 
 "**Does the College Graduate Village Officials Program Improve the Village Governance in China?**"
 
 <font size="-1">
-<p style="text-align: justify"><ins>Abstratct</ins>: This paper estimates the effects of sending officials from upper-level governments to rural villages on unpopular policies' implementation by evaluating the College Graduate Village Officials (CGVO) program's impacts on land expropriation and one child policy. I find that introducing CGVOs into villages does not improve the implementation of unpopular policies significantly. Then I propose a model to understand heterogeneous effects of CGVOs by accountability of village government. The model predicts smaller effects of CGVOs in villages with more accountable governments.  The empirical analysis supports the prediction by showing that the effects of CGVOs on the implementation of land expropriation and one child policy are larger in socially more fragmented villages where governments are less accountable to villagers.</p></font>
+<p style="text-align: justify"><ins>Abstratct</ins>: This paper estimates the effects of sending officials from upper-level governments to rural villages on unpopular policies' implementation by evaluating the College Graduate Village Officials (CGVO) program's impacts on land expropriation and one child policy. I find that introducing CGVOs into villages does not improve the implementation of unpopular policies significantly. Then I propose a model to understand heterogeneous effects of CGVOs by accountability of village government. The model predicts smaller effects of CGVOs in villages with more accountable governments.  The empirical analysis supports the prediction by showing that the effects of CGVOs on the implementation of land expropriation and one child policy are larger in socially more fragmented villages where governments are less accountable to villagers.</p></font>)
 
 
 

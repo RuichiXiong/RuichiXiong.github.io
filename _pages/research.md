@@ -56,18 +56,11 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-[comment]: <> ("Brain Gain on Diaspora Network", with [Fanghao Chen](https://fanghaochen.github.io/homepage/))
+[comment]: <> ("Local Connection, Domestic Sourcing, and FDI Performance", with [Fanghao Chen](https://fanghaochen.github.io/homepage/))
 
 <p>&nbsp;</p>
 
-[comment]: <> (## <u>Pre-Doctoral Work</u>
-
-<p>&nbsp;</p>
-
-"**Does the College Graduate Village Officials Program Improve the Village Governance in China?**"
-
-<font size="-1">
-<p style="text-align: justify"><ins>Abstratct</ins>: This paper estimates the effects of sending officials from upper-level governments to rural villages on unpopular policies' implementation by evaluating the College Graduate Village Officials (CGVO) program's impacts on land expropriation and one child policy. I find that introducing CGVOs into villages does not improve the implementation of unpopular policies significantly. Then I propose a model to understand heterogeneous effects of CGVOs by accountability of village government. The model predicts smaller effects of CGVOs in villages with more accountable governments.  The empirical analysis supports the prediction by showing that the effects of CGVOs on the implementation of land expropriation and one child policy are larger in socially more fragmented villages where governments are less accountable to villagers.</p></font>)
+[comment]: <> ("Brain Gains on the Diaspora Network", with [Fanghao Chen](https://fanghaochen.github.io/homepage/))
 
 
 

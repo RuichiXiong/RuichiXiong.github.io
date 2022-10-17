@@ -22,7 +22,7 @@ I am a Ph.D. candidate at the Rotman School of Management, University of Toronto
 
 In the academic year 2022-2023, I will be on the job market. 
 
-My primary interest lies in evaluating and understanding <b>the importance of international geographic and social connections to entrepreneurship, innovation, and development</b>.
+My primary interest lies in evaluating and understanding <b>the importance of international geographic and social connections for entrepreneurship, innovation, and development</b>.
 
 <ins>Research fields</ins>: Urban, Trade, Entrepreneurship, Innovation, Development.
 

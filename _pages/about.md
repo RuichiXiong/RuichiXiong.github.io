@@ -26,6 +26,6 @@ My primary interest lies in evaluating and understanding <b>the importance of in
 
 <ins>Research fields</ins>: Urban, Trade, Entrepreneurship, Innovation, Development.
 
-<ins>References</ins>: Nathaniel Baum-Snow (supervisor), April Franco, William Strange
+<ins>References</ins>: Nathaniel Baum-Snow (supervisor), April Franco, William Strange, Xiaobo Zhang
 
 Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

@@ -34,6 +34,8 @@ nav_order: 2
 
 "**Endogenous Learning, Dynamic Agglomeration, and the Skill Premium over Life Cycle**"
 
+[Preliminary Draft Available Upon Request]
+
 <font size="-1"> 
 <p style="text-align: justify"><ins>Abstract</ins>: This paper proposes a new measure on learning with time use survey data and shows that learning time is lower in big city and higher for high skill workers especially when they are young. This indicates endogenous learning-working tradeoff with skill complementarity. This paper also documents the fact that in 1980-2007 US census data city size wage elasticity firstly diverge and then converge over worker's life cycle. And the fact cannot be explained by existed literature which only considered passive experience accumulation as learning. Therefore the theoretical part of this paper introduces the empirically observed endogenous learning-working tradeoff into dynamic life cycle model nesting experience accumulation and shows that both the divergence and convergence can be accounted for under one unified framework. Furthermore, the model can also match several other novel facts presented in this paper including skill-youngness complementarity in learning time, declining skill premium gap between big and small cities over life cycle, and declining sorting of high skill workers into big city over life cycle.</p></font>
 
@@ -56,11 +58,11 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-[comment]: <> ("Local Connection, Domestic Sourcing, and FDI Performance", with [Fanghao Chen](https://fanghaochen.github.io/homepage/))
+"**Local Connection, Domestic Sourcing, and FDI Performance**", with [Fanghao Chen](https://fanghaochen.github.io/homepage/)
 
 <p>&nbsp;</p>
 
-[comment]: <> ("Brain Gains on the Diaspora Network", with [Fanghao Chen](https://fanghaochen.github.io/homepage/))
+"**Brain Gains on the Diaspora Network**", with [Fanghao Chen](https://fanghaochen.github.io/homepage/)
 
 
 

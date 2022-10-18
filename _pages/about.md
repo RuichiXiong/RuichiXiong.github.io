@@ -26,7 +26,7 @@ My primary interest lies in evaluating and understanding <b>the importance of in
 
 <ins>Research fields</ins>: Urban, Trade, Entrepreneurship, Innovation, Development.
 
-<ins>References</ins>: Nathaniel Baum-Snow (supervisor), April Franco, William Strange, Xiaobo Zhang
+<ins>References</ins>: Nathaniel Baum-Snow (Supervisor), April Franco, William Strange, Xiaobo Zhang
 
 <ins>Job Market Paper</ins>: <a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">Interregional Accessibility and Firm Creation in the Fragmented Economy</a>.
 

@@ -7,11 +7,11 @@ nav: true
 nav_order: 3
 ---
 
-During 2019-2021, I worked as teaching assistant for several undergraduate or graduate courses at the University of Toronto.
+During 2019-2021, I worked as a teaching assistant for several undergraduate or graduate courses at the University of Toronto.
 
 <p>&nbsp;</p>
 
-### <ins>Undergraduate</ins>
+### <ins>At the Undergraduate Level</ins>
 
 Introduction to Microeconomics: A Mathematical Approach, for Professor Jack Parkinson, 2021
 
@@ -21,7 +21,7 @@ Introduction to Microeconomics: A Mathematical Approach, for Professor Jack Park
 
 <p>&nbsp;</p>
 
-### <ins>Graduate</ins>
+### <ins>At the Graduate Level</ins>
 
 Managerial Economics (MBA), for Professor Byung Soo Lee, , 2021
 

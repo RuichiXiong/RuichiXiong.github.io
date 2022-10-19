@@ -62,9 +62,15 @@ nav_order: 2
 
 "**Local Connection, Domestic Sourcing, and FDI Performance**", with [Fanghao Chen](https://fanghaochen.github.io/homepage/)
 
+<font size="-1"> 
+<p style="text-align: justify"><ins>Abstract</ins>: This paper estimates the value of surname-based local lineage connections for the performance of firms in China, especially those foreign firms with few alternative local connections. Measuring a firm's local lineage connection by the probability that the legal representative of the firm has ancestry origin in the same prefecture where the firm is located, we use event studies leveraging the firm's legal representative turnovers to identify the value of the local lineage connection to the firm. Furthermore, we find that the values of local lineage connections to domestic firms are lower than to foreign firms that have ethnic Chinese as legal representatives because foreign firms have fewer alternative local connections. To shed light on the underlying mechanisms, we further check whether foreign firms that get improved local lineage connections, through legal representative turnovers, switch from importing intermediates to sourcing inputs from local suppliers. This ongoing work therefore helps us understand the importance of local connection for FDI performance, from the perspective of building buyer-supplier relationships with domestic firms.</p></font>
+
 <p>&nbsp;</p>
 
 "**Brain Gains on the Diaspora Network**", with [Fanghao Chen](https://fanghaochen.github.io/homepage/)
+
+<font size="-1"> 
+<p style="text-align: justify"><ins>Abstract</ins>: This paper examines the importance of diaspora networks in promoting *Brain Gains* in the context of China's recent industrialization. We measure the technology diffusion between China and other countries by Chinese patents' citation of the patents of other countries and other countries' patent registrations in China. We then identify a higher effect of signing bilateral investment treaties on the technology diffusion between China and countries with larger sizes of Chinese diaspora. Furthermore, we identify patents registered in China with inventors as overseas Chinese and define these patents as diaspora patents. In this way, we can observe the return to China of diaspora inventors from developed countries. We then document the prevalence of diaspora *Brain Gains* in terms of returned Chinese inventors from other countries. With the same bilateral investment treaty signing as natural experiments, we show that the Chinese inventors returned from countries with larger sizes of Chinese diaspora are of both greater amount and higher average quality in terms of patent citations.</p></font>
 
 
 

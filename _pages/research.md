@@ -46,7 +46,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-<a style="font-family: Microsoft Yahei">“**以侨为桥---侨资企业与中国的外向型发展**”， *中国经济学* (*Journal of China Economics*)， 2022， 1(1):4， 与[陈方豪 (Fanghao Chen)](https://fanghaochen.github.io/homepage/)合作</a>
+<a style="font-family: Microsoft Yahei">“**以侨为桥---侨资企业与中国的外向型发展**”， *中国经济学*， 2022， 1(1):4， 与[陈方豪](https://fanghaochen.github.io/homepage/)合作</a>
 
 ("Chinese Diasporas as Bridge Builders: Diaspora-Run Enterprises and the Outward-Oriented Development of China")
 

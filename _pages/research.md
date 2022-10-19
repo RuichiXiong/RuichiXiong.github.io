@@ -28,7 +28,7 @@ nav_order: 2
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
 
 <font size="-1"> 
-<p style="text-align: justify"><ins>Abstract</ins>: As a developing country, China became the top foreign direct investment (FDI) destination in just a few decades, defying the “Lucas Paradox.” Using a unique administrative dataset of universe foreign firms in China, we document that initial FDIs were mainly driven by Chinese diaspora, while massive non-diaspora FDIs did not materialize until to a later stage. Leveraging the staggered opening-up of Chinese prefectures during 1981-1996 as an identification strategy, we find that following the opening-up, diaspora direct investments (DDIs) are more likely to enter prefectures with stronger lineage connections. These prefectures also witness a greater number of non-diaspora foreign and domestic private entrants later on.</p></font>
+<p style="text-align: justify"><ins>Abstract</ins>: As a developing country, China became the top destination for foreign direct investment in just a few decades, defying the "Lucas paradox." Using a unique administrative dataset of the universe foreign firms in China, this paper documents that initial foreign direct investment was mainly driven by the Chinese diaspora; massive non-diaspora foreign direct investment did not materialize until a later stage. Leveraging the staggered opening up of Chinese prefectures during 1981-96 as an identification strategy, the paper finds that following the opening up, diaspora direct investment is more likely to enter prefectures with stronger lineage connections. These prefectures also witness a greater number of non-diaspora foreign and domestic private entrants in the later period.</p></font>
 
 <p>&nbsp;</p>
 

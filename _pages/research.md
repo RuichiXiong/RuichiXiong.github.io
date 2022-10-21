@@ -25,7 +25,7 @@ nav_order: 2
 
 "**Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China**", with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang) 
 
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
+[<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">PDF</a>] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
 
 <font size="-1"> 
 <p style="text-align: justify"><ins>Abstract</ins>: As a developing country, China became the top destination for foreign direct investment in just a few decades, defying the "Lucas paradox." Using a unique administrative dataset of the universe foreign firms in China, this paper documents that initial foreign direct investment was mainly driven by the Chinese diaspora; massive non-diaspora foreign direct investment did not materialize until a later stage. Leveraging the staggered opening up of Chinese prefectures during 1981-96 as an identification strategy, the paper finds that following the opening up, diaspora direct investment is more likely to enter prefectures with stronger lineage connections. These prefectures also witness a greater number of non-diaspora foreign and domestic private entrants in the later period.</p></font>

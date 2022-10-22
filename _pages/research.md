@@ -50,7 +50,7 @@ nav_order: 2
 
 ("Chinese Diasporas as Bridge Builders: Diaspora-Run Enterprises and the Outward-Oriented Development of China")
 
-[[LINK](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [<a href="{{ site.url }}/assets/pdf/pub1.pdf" target="_blank">PDF</a>]
+[[LINK](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [<a href="{{ site.url }}/assets/pdf/ddi_c.pdf" target="_blank">PDF</a>]
 
  
 <p>&nbsp;</p>

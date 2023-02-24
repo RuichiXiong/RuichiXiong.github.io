@@ -21,3 +21,5 @@ Welcome to my website! My name is <font size="+3"><b>Ruichi Xiong</b></font>.
 I am a Ph.D. candidate at Rotman School of Management, University of Toronto.
 
 <ins>Research fields</ins>: Urban, Trade, Entrepreneurship, Innovation, and Development.
+
+Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

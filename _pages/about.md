@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: 123.png
+  image: home.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p, align="center"><a href="mailto:ruichi.xiong@rotman.utoronto.ca">ruichi.xiong@rotman.utoronto.ca</a> </p>

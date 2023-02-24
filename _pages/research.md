@@ -15,20 +15,20 @@ nav_order: 2
 
 "**Interregional Accessibility and Firm Creation in the Fragmented Economy**", *Job Market Paper* 
 
-[<a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">PDF</a>]
+[<a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">pdf</a>]
 
 
 <p>&nbsp;</p>
 
 "**Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China**", with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang) 
 
-[<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">PDF</a>] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
+[<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">pdf</a>] [[ssrn](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
 
 <p>&nbsp;</p>
 
 "**Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle**"
 
-[*Preliminary Draft Available Upon Request*]
+[*preliminary draft available upon request*]
 
 
 <p>&nbsp;</p>
@@ -39,7 +39,7 @@ nav_order: 2
 
 <a style="font-family: Microsoft Yahei">“**以侨为桥---侨资企业与中国的外向型发展**”， *中国经济学*， 2022， 1(1):4， 与[陈方豪](https://fanghaochen.github.io/homepage/)合作</a>
 
-[[LINK](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [<a href="{{ site.url }}/assets/pdf/ddi_c.pdf" target="_blank">PDF</a>]
+[[link](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] [<a href="{{ site.url }}/assets/pdf/ddi_c.pdf" target="_blank">pdf</a>]
 
  
 <p>&nbsp;</p>

@@ -24,7 +24,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"**Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle**"
+"Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle"
 
 [*preliminary draft available upon request*]
 
@@ -47,7 +47,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"**Local Connection, Domestic Sourcing, and FDI Performance**", with [Fanghao Chen](https://fanghaochen.github.io/homepage/)
+"Local Connection, Domestic Sourcing, and FDI Performance", with [Fanghao Chen](https://fanghaochen.github.io/homepage/)
 
 
 

@@ -18,7 +18,7 @@ profile:
 
 Welcome to my website! My name is <font size="+3"><b>Ruichi Xiong</b></font>.
 
-I obtain my Ph.D. from Rotman School of Management at the University of Toronto in 2023.4.
+I receive Ph.D. from Rotman School of Management at the University of Toronto in April, 2023.
 
 <ins>Research fields</ins>: Urban, Trade, Entrepreneurship, Innovation, and Development.
 

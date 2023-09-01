@@ -13,12 +13,14 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"<a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">Interregional Accessibility and Firm Creation in the Fragmented Economy</a>", *Job Market Paper* 
+"<a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">Interregional Accessibility and Firm Creation in the Fragmented Economy</a>"
 
 
 <p>&nbsp;</p>
 
-"<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development</a>", with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
+"<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development</a>" 
+
+with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
 
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
 

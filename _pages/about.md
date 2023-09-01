@@ -20,7 +20,7 @@ Welcome to my website! My name is <font size="+3"><b>Ruichi Xiong</b></font>.
 
 I am an assistant professor at the Economics and Management School of Wuhan University.
 
-I receive Ph.D. from the Rotman School of Management at the University of Toronto in 2023.
+I received my Ph.D. from the Rotman School of Management at the University of Toronto in 2023.
 
 <ins>Research fields</ins>: Urban, Trade, Entrepreneurship, Innovation, and Development.
 

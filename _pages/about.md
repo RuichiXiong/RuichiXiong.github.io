@@ -16,7 +16,7 @@ profile:
 
 <p>&nbsp;</p>
 
-Welcome to my website! My name is <font size="+3"><b>Ruichi Xiong</b></font>.
+Welcome! My name is <font size="+3"><b>Ruichi Xiong</b></font>.
 
 I am an assistant professor at the Economics and Management School of Wuhan University.
 

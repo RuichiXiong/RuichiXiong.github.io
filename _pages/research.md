@@ -18,7 +18,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">Familiar Strangers: Lineage Connection and Diaspora Direct Investment in China</a>", with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
+"<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development</a>", with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
 
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
 
@@ -39,15 +39,7 @@ nav_order: 2
 
 [[journal link](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] 
 
- 
-<p>&nbsp;</p>
 
-
-## <u>Selected Work-in-Progress</u>
-
-<p>&nbsp;</p>
-
-"Local Connection, Domestic Sourcing, and FDI Performance", with [Fanghao Chen](https://fanghaochen.github.io/homepage/)
 
 
 

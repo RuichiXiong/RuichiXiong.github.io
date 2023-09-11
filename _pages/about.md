@@ -9,6 +9,7 @@ profile:
   image: home.jpg
   image_cicular: false # crops the image to make it circular
   address: >
+    <p, align="center"><a href="mailto:ruichixiong@whu.edu.cn">ruichixiong@whu.edu.cn</a> </p>
     <p, align="center"><a href="mailto:ruichixiong@gmail.com">ruichixiong@gmail.com</a> </p>
     <p, align="center">Luojia Hill, Wuhan, 430072, China</p>
     

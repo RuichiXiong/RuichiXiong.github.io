@@ -20,7 +20,7 @@ nav_order: 2
 
 "<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development</a>" 
 
-with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
+with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang), [*R&R at Journal of International Economics*]
 
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
 

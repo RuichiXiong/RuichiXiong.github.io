@@ -6,9 +6,9 @@ title:
 first_name: Ruichi
 middle_name: 
 last_name: Xiong
-#email: ruichi.xiong@rotman.utoronto.ca
+#email: ruichixiong@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  I am an assistant professor at Wuhan University. I graduated from the Rotman School of Management at the University of Toronto. I am interested in urban, trade, entrepreneurship, innovation, and development.
 #footer_text: 
 #keywords: 
 
@@ -248,8 +248,8 @@ jekyll-diagrams:
 
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: true  # enables google site verification
-enable_bing_verification:   true  # enables bing site verification
+enable_google_verification: false  # enables google site verification
+enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             false   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated

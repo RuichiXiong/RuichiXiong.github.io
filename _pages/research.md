@@ -27,7 +27,7 @@ with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](
 
 <p>&nbsp;</p>
 
-"Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle"
+"Urban Fragmentation and Innovation Collaboration: Evidence from China"
 
 with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao, *R&R at China Economic Review*
 

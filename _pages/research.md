@@ -28,7 +28,23 @@ with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](
 <p>&nbsp;</p>
 
 "Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle"
-with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Shan Zhao], *R&R at China Economic Review*
+
+with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao, *R&R at China Economic Review*
+
+
+<p>&nbsp;</p>
+
+"Ripple Effects of Deregulating Startup Investment with Agglomeration Spillovers"
+
+with Zijun Cheng and Siyuan Liu
+
+
+<p>&nbsp;</p>
+
+"The Power of Patience: Geography and Negotiation Dynamics in Proxy Voting"
+
+with Xijiang Su
+
 
 
 <p>&nbsp;</p>

@@ -24,11 +24,16 @@ with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](
 
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
 
+
 <p>&nbsp;</p>
 
 "Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle"
+with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Shan Zhao], *R&R at China Economic Review*
 
-[*preliminary draft available upon request*]
+
+<p>&nbsp;</p>
+
+"Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle"
 
 
 <p>&nbsp;</p>

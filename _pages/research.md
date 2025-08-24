@@ -34,7 +34,7 @@ with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao, *acc
 
 <p>&nbsp;</p>
 
-"Ripple Effects of Deregulating Startup Investment with Agglomeration Spillovers"
+"Ripple Effects of Deregulating Startup Investment with Entrepreneurial Spillovers"
 
 with Zijun Cheng and Siyuan Liu
 
@@ -44,12 +44,6 @@ with Zijun Cheng and Siyuan Liu
 "The Power of Patience: Geography and Negotiation Dynamics in Proxy Voting"
 
 with Xijiang Su
-
-
-
-<p>&nbsp;</p>
-
-"Endogenous Learning and the Skill-Biased Dynamic Agglomeration over Life Cycle"
 
 
 <p>&nbsp;</p>

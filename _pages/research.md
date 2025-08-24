@@ -29,7 +29,7 @@ with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](
 
 "Urban Fragmentation and Innovation Collaboration: Evidence from China"
 
-with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao, *R&R at China Economic Review*
+with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao, *Accepted by China Economic Review*
 
 
 <p>&nbsp;</p>

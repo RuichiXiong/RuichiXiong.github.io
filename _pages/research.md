@@ -27,13 +27,6 @@ with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](
 
 <p>&nbsp;</p>
 
-"Urban Fragmentation and Innovation Collaboration: Evidence from China"
-
-with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao, *accepted by China Economic Review*
-
-
-<p>&nbsp;</p>
-
 "Ripple Effects of Deregulating Startup Investment with Entrepreneurial Spillovers"
 
 with Zijun Cheng and Siyuan Liu
@@ -48,11 +41,20 @@ with Xijiang Su
 
 <p>&nbsp;</p>
 
+
 ## <u>Publications</u>
+
 
 <p>&nbsp;</p>
 
-<a style="font-family: Microsoft Yahei">“<a href="{{ site.url }}/assets/pdf/ddi_c.pdf" target="_blank">以侨为桥---侨资企业与中国的外向型发展</a>”， *中国经济学*， 2022， 1(1):4， 与[陈方豪](https://fanghaochen.github.io/homepage/)合作</a>
+“以侨为桥---侨资企业与中国的外向型发展”， *中国经济学*， 2022， 1(1):4， 与[陈方豪](https://fanghaochen.github.io/homepage/)合作</a>
+
+[[journal link](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] 
+
+
+<p>&nbsp;</p>
+
+“"Urban Fragmentation and Innovation Collaboration: Evidence from China”， *China Economic Review*， 2025， with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao
 
 [[journal link](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)] 
 

@@ -54,7 +54,7 @@ with Xijiang Su
 
 <p>&nbsp;</p>
 
-“Urban Fragmentation and Innovation Collaboration: Evidence from China[(https://www.sciencedirect.com/science/article/pii/S1043951X25001968)]”， *China Economic Review*， 2025
+“[Urban Fragmentation and Innovation Collaboration: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X25001968)”， *China Economic Review*， 2025
 
 with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao
 

@@ -61,30 +61,35 @@ if [[ -z "$CI" ]]; then
     fi
 fi
 
-# Check if there are any uncommitted changes
-if ! git diff-index --quiet HEAD --; then
-    echo "Changes to the following files are uncommitted:"
-    git diff-index --name-only HEAD --
-    echo "Please commit the changes before proceeding."
-    echo "Aborting."
-    [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
-fi
+# In CI environment, skip uncommitted changes check and branch switching
+if [[ -z "$CI" ]]; then
+    # Check if there are any uncommitted changes
+    if ! git diff-index --quiet HEAD --; then
+        echo "Changes to the following files are uncommitted:"
+        git diff-index --name-only HEAD --
+        echo "Please commit the changes before proceeding."
+        echo "Aborting."
+        [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
+    fi
 
-# Check if there are any untracked files
-if ! test -z "$(git ls-files --exclude-standard --others)"; then
-    echo "There are untracked files:"
-    git ls-files --exclude-standard --others
-    echo "Please commit those files or stash them before proceeding."
-    echo "Aborting."
-    [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
-fi
+    # Check if there are any untracked files
+    if ! test -z "$(git ls-files --exclude-standard --others)"; then
+        echo "There are untracked files:"
+        git ls-files --exclude-standard --others
+        echo "Please commit those files or stash them before proceeding."
+        echo "Aborting."
+        [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
+    fi
 
-# Switch to source branch (creates it if necessary from the current branch)
-if [ `git branch | grep $SRC_BRANCH | tr ' ' '\n' | tail -1` ]
-then
-    git checkout $SRC_BRANCH
+    # Switch to source branch (creates it if necessary from the current branch)
+    if [ `git branch | grep $SRC_BRANCH | tr ' ' '\n' | tail -1` ]
+    then
+        git checkout $SRC_BRANCH
+    else
+        git checkout -b $SRC_BRANCH
+    fi
 else
-    git checkout -b $SRC_BRANCH
+    echo "Running in CI mode - skipping local git checks"
 fi
 
 # Checkout DEPLOY_BRANCH branch
@@ -113,8 +118,10 @@ git add -fA
 git commit --allow-empty -m "$(git log -1 --pretty=%B) [ci skip]"
 [[ ${NO_PUSH} ]] || git push -f -q origin $DEPLOY_BRANCH
 
-# Move back to SRC_BRANCH
-git checkout $SRC_BRANCH
+# Move back to SRC_BRANCH (skip in CI)
+if [[ -z "$CI" ]]; then
+    git checkout $SRC_BRANCH
+fi
 
 echo "Deployed successfully!"
 

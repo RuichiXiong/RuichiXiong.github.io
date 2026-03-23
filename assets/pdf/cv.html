@@ -1,0 +1,413 @@
+<!DOCTYPE html><html lang="en"><head><meta name="x-poe-datastore-behavior" content="local_only"><meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://code.jquery.com https://unpkg.com https://d3js.org https://threejs.org https://cdn.plot.ly https://stackpath.bootstrapcdn.com https://maps.googleapis.com https://cdn.tailwindcss.com https://ajax.googleapis.com https://kit.fontawesome.com https://cdn.datatables.net https://maxcdn.bootstrapcdn.com https://code.highcharts.com https://tako-static-assets-production.s3.amazonaws.com https://www.youtube.com https://fonts.googleapis.com https://fonts.gstatic.com https://pfst.cf2.poecdn.net https://puc.poecdn.net https://i.imgur.com https://wikimedia.org https://*.icons8.com https://*.giphy.com https://picsum.photos https://images.unsplash.com; frame-src 'self' https://www.youtube.com https://trytako.com; child-src 'self'; manifest-src 'self'; worker-src 'self'; upgrade-insecure-requests; block-all-mixed-content;">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Ruichi Xiong</title>
+    <style>
+        :root {
+            --font-main: "Times New Roman", Times, serif;
+            --font-sans: Arial, Helvetica, sans-serif; /* For subtle UI elements if needed */
+            --color-text: #111;
+            --color-secondary: #444;
+            --border-color: #000;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-main);
+            line-height: 1.4;
+            color: var(--color-text);
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .cv-container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 50px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 24px;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+
+        .contact-info {
+            font-size: 15px;
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: var(--color-text);
+            text-decoration: none;
+            border-bottom: 1px dotted #000;
+        }
+
+        a:hover {
+            border-bottom: 1px solid #000;
+        }
+
+        /* Sections */
+        section {
+            margin-bottom: 25px;
+        }
+
+        h2 {
+            font-size: 16px;
+            text-transform: uppercase;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 3px;
+            margin-bottom: 15px;
+            margin-top: 0;
+            letter-spacing: 0.5px;
+        }
+
+        /* Entries (Job, Education, etc) */
+        .entry {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            align-items: baseline;
+        }
+
+        .entry-main {
+            flex: 1;
+            padding-right: 20px;
+        }
+
+        .entry-date {
+            font-weight: normal;
+            white-space: nowrap;
+            text-align: right;
+        }
+
+        .institution {
+            font-style: italic;
+        }
+
+        .location {
+            font-style: normal;
+        }
+
+        /* Lists (Papers, Seminars) */
+        .paper-entry {
+            margin-bottom: 12px;
+        }
+        
+        .paper-title {
+            font-weight: bold;
+        }
+
+        .paper-meta {
+            margin-left: 20px;
+            font-style: italic;
+            color: var(--color-secondary);
+        }
+
+        .seminar-year {
+            font-weight: bold;
+            display: inline-block;
+            width: 50px;
+            vertical-align: top;
+        }
+        
+        .seminar-list {
+            display: inline-block;
+            width: calc(100% - 60px);
+            vertical-align: top;
+        }
+
+        .seminar-row {
+            margin-bottom: 8px;
+        }
+
+        /* Responsive */
+        @media (max-width: 600px) {
+            .cv-container {
+                padding: 20px;
+            }
+            
+            .entry {
+                flex-direction: column;
+            }
+            
+            .entry-date {
+                text-align: left;
+                font-style: italic;
+                color: #666;
+                margin-bottom: 8px;
+            }
+
+            .seminar-year {
+                display: block;
+                width: 100%;
+                margin-bottom: 2px;
+            }
+            
+            .seminar-list {
+                display: block;
+                width: 100%;
+                margin-left: 0;
+            }
+        }
+
+        /* Print Styles */
+        @media print {
+            body {
+                background: none;
+                padding: 0;
+            }
+            .cv-container {
+                box-shadow: none;
+                padding: 0;
+                width: 100%;
+                max-width: 100%;
+            }
+            a {
+                text-decoration: none;
+                border: none;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="cv-container">
+
+    <header>
+        <h1>RUICHI XIONG 熊瑞驰</h1>
+        <div class="contact-info">
+            Economics and Management School, Wuhan University,<br>
+            Luojia Hill, Wuhan, 430072, China
+        </div>
+        <div class="contact-info">
+            Email: <a href="mailto:ruichixiong@whu.edu.cn">ruichixiong@whu.edu.cn</a> | 
+            Website: <a href="http://www.ruichixiong.com" target="_blank">www.ruichixiong.com</a>
+        </div>
+    </header>
+
+    <section>
+        <h2>Current Employment</h2>
+        <div class="entry">
+            <div class="entry-main">
+                <strong>Assistant Professor</strong>, Economics and Management School, Wuhan University
+            </div>
+            <div class="entry-date">2023 - ?</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <div class="entry">
+            <div class="entry-main">
+                <strong>Ph.D. in Management (Economic Analysis and Policy Area)</strong><br>
+                <span class="institution">Rotman School of Management, University of Toronto, Toronto, Canada</span>
+            </div>
+            <div class="entry-date">2018 - 2023</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">
+                <strong>M.Sc. in Economics and Finance</strong><br>
+                <span class="institution">Centro de Estudios Monetarios y Financieros (CEMFI), Madrid, Spain</span>
+            </div>
+            <div class="entry-date">2016 - 2018</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">
+                <strong>M.A. in Economics</strong><br>
+                <span class="institution">Central University of Finance and Economics, Beijing, China</span>
+            </div>
+            <div class="entry-date">2013 - 2016</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">
+                <strong>B.A. in Economics</strong><br>
+                <span class="institution">Hubei University, Wuhan, China</span>
+            </div>
+            <div class="entry-date">2008 - 2012</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Research Interests</h2>
+        <p>Urban, Trade, Entrepreneurship, Innovation, and Development</p>
+    </section>
+
+    <section>
+        <h2>Working Papers</h2>
+        
+        <div class="paper-entry">
+            <div class="paper-title">“Interregional Accessibility and Firm Creation in the Fragmented Economy”</div>
+        </div>
+
+        <div class="paper-entry">
+            <div class="paper-title">“Familiar Strangers: The Role of Diaspora Network in Foreign Investment and Long-run Development”</div>
+            <div class="paper-meta">with Fanghao Chen (Jinan University) and Xiaobo Zhang (Peking University &amp; IFPRI)</div>
+            <div class="paper-meta">conditionally accepted, Journal of International Economics</div>
+        </div>
+
+        
+
+        <div class="paper-entry">
+            <div class="paper-title">“Ripple Effects of Deregulating Startup Investment with Entrepreneurial Spillovers”</div>
+            <div class="paper-meta">with Zijun Cheng (Peking University) and Siyuan Liu (University of Toronto)</div>
+        </div>
+
+        <div class="paper-entry">
+            <div class="paper-title">“The Power of Patience: Geography and Negotiation Dynamics in Proxy Voting”</div>
+            <div class="paper-meta">with Xijiang Su (York University)</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Publications</h2>
+        <div class="paper-entry">
+            <div class="paper-title">“Urban Fragmentation and Innovation Collaboration: Evidence from China”</div>
+            <div class="paper-meta">Fanghao Chen, Ruichi Xiong, Shan Zhao, 2025, China Economic Review</div>
+        </div>
+
+        <div class="paper-entry">
+            <div class="paper-title">“以侨为桥—侨资企业与中国的外向型发展”</div>
+            <div class="paper-meta">陈方豪, 熊瑞驰, 2022, 1(1):4, 中国经济学</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Honors, Scholarships, and Grants</h2>
+        <div class="entry">
+            <div class="entry-main">中国国家自然科学基金青年项目 (30 万)</div>
+            <div class="entry-date">2025-2027</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">Rotman TD MDAL Research Grant (4300 CAD with Siyuan Liu and Zijun Cheng)</div>
+            <div class="entry-date">2023-2024</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">School of Graduate Studies Conference Grant</div>
+            <div class="entry-date">2022</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">School of Graduate Studies Conference Grant</div>
+            <div class="entry-date">2021</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">Ph.D. Student Fellow at the Rotman Centre for Real Estate and Urban Economics</div>
+            <div class="entry-date">2021</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">Rotman China Initiative Research Grant (1000 CAD with Fanghao Chen)</div>
+            <div class="entry-date">2020-2021</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">Rotman School of Management Dean’s Fellowship</div>
+            <div class="entry-date">2018-2020</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">University of Toronto Fellowship - Management</div>
+            <div class="entry-date">2018-2023</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">CEMFI Master Full Scholarship</div>
+            <div class="entry-date">2016-2018</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Seminars &amp; Conference Presentations</h2>
+        
+        <div class="seminar-row">
+            <span class="seminar-year">2025</span>
+            <span class="seminar-list">(Including scheduled ones with *) The 12th GEP China Conference at UNNC, WHU-NSE Applied Economics Workshop, WHU-Lingnan Applied Economics Workshop</span>
+        </div>
+        
+        <div class="seminar-row">
+            <span class="seminar-year">2024</span>
+            <span class="seminar-list">Jinan SOE, The 2nd China Summer Meeting in Urban Economics, CES Annual Meeting, RUSE, YES Chengdu, YES Annual Meeting, YES Wuhan</span>
+        </div>
+
+        <div class="seminar-row">
+            <span class="seminar-year">2023</span>
+            <span class="seminar-list">Jinan-SMU Conference on Urban and Regional Economics, Trade Workshop at Wuhan University, 第五届中国城市经济学者论坛, Economics Seminar at Wuhan University</span>
+        </div>
+
+        <div class="seminar-row">
+            <span class="seminar-year">2022</span>
+            <span class="seminar-list">Student-Led Workshop on Entrepreneurial Finance and Innovation, NEUDC, North American UEA Meeting, Trade Seminar at the University of Toronto, Asian Meeting of the Econometric Society in China, ICCDS</span>
+        </div>
+
+        <div class="seminar-row">
+            <span class="seminar-year">2021</span>
+            <span class="seminar-list">European Winter Meeting of the Econometric Society</span>
+        </div>
+
+        <div class="seminar-row">
+            <span class="seminar-year">2020</span>
+            <span class="seminar-list">Trade Brownbag at the University of Toronto</span>
+        </div>
+    </section>
+
+    <section>
+        <h2>Other Activities</h2>
+        <div class="entry">
+            <div class="entry-main">Local Organizing Committee for the 12th Regional, Urban, and Spatial Economics (RUSE) Conference</div>
+            <div class="entry-date">2025</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">Discussant for the 5th Macro Workshop at Shandong University</div>
+            <div class="entry-date">2024</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">NBER Entrepreneurship Research Boot Camp</div>
+            <div class="entry-date">2020</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Teaching</h2>
+        <div class="entry">
+            <div class="entry-main">高级计量经济学（硕士）, 与王润楠合授，武汉大学经济与管理学院</div>
+            <div class="entry-date">2025</div>
+        </div>
+
+        <div class="entry">
+            <div class="entry-main">计量经济学 (本科), 武汉大学经济与管理学院</div>
+            <div class="entry-date">2025</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">国际经济学 (本科), 武汉大学经济与管理学院</div>
+            <div class="entry-date">2024-2025</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">劳动经济学 (本科双学位), 武汉大学经济与管理学院</div>
+            <div class="entry-date">2024-2025</div>
+        </div>
+        <div class="entry">
+            <div class="entry-main">贸易与发展工作坊 (研究生), 与郭汝飞合授, 武汉大学经济与管理学院</div>
+            <div class="entry-date">2024</div>
+        </div>
+    </section>
+
+    <section>
+        <h2>Referee</h2>
+        <p>Journal of Urban Economics, Regional Science and Urban Economics, China Economic Review<br>
+        经济学（季刊）</p>
+    </section>
+
+</div>
+
+
+
+</body></html>

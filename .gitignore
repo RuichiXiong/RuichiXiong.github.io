@@ -8,3 +8,6 @@
 .tweet-cache
 Gemfile.lock
 vendor_site/
+
+# Project documentation (may contain sensitive info)
+CLAUDE.md

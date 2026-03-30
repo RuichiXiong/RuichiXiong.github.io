@@ -64,6 +64,8 @@
         /* Sections */
         section {
             margin-bottom: 25px;
+            break-inside: avoid;
+            page-break-inside: avoid;
         }
 
         h2 {
@@ -165,6 +167,11 @@
             }
         }
 
+        /* Page margin and numbering for print/PDF */
+        @page {
+            margin: 15mm 15mm 20mm 15mm; /* top right bottom left */
+        }
+
         /* Print Styles */
         @media print {
             body {
@@ -180,6 +187,16 @@
             a {
                 text-decoration: none;
                 border: none;
+            }
+            .page-footer {
+                display: block;
+                position: fixed;
+                bottom: -15mm;
+                left: 0;
+                right: 0;
+                text-align: center;
+                font-size: 11px;
+                color: #666;
             }
         }
     </style>
@@ -408,7 +425,5 @@
     </section>
 
 </div>
-
-
 
 </body></html>

@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "generate-cv": "node scripts/generate-cv.js"
+  },
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

@@ -25,4 +25,4 @@ I received my Ph.D. from the Rotman School of Management at the University of To
 
 <ins>Research fields</ins>: Science, Innovation, and Growth.
 
-Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf?v=2" target="_blank">CV</a>.
+Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf?v=3" target="_blank">CV</a>.

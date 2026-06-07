@@ -18,15 +18,6 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-"<a href="{{ site.url }}/assets/pdf/ddi.pdf" target="_blank">Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development</a>" 
-
-with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang), *accepted by Journal of International Economics*
-
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4004159)]
-
-
-<p>&nbsp;</p>
-
 "Ripple Effects of Deregulating Startup Investment with Entrepreneurial Spillovers"
 
 with Zijun Cheng and Siyuan Liu
@@ -43,6 +34,13 @@ with Xijiang Su
 
 
 ## <u>Publications</u>
+
+
+<p>&nbsp;</p>
+
+“[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://www.sciencedirect.com/science/article/pii/S0022199626000838)”， *Journal of International Economics*， forthcoming
+
+with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
 
 
 <p>&nbsp;</p>

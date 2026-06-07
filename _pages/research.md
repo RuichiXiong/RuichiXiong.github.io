@@ -45,14 +45,14 @@ with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](
 
 <p>&nbsp;</p>
 
-“[以侨为桥---侨资企业与中国的外向型发展](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)”， *中国经济学*， 2022， 1(1):4 
+“[以侨为桥---侨资企业与中国的外向型发展](https://www.jcejournal.com.cn/CN/abstract/abstract3.shtml)”， *中国经济学*，&nbsp;2022，&nbsp;1(1):4
 
 与[陈方豪](https://fanghaochen.github.io/homepage/)合作
 
 
 <p>&nbsp;</p>
 
-“[Urban Fragmentation and Innovation Collaboration: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X25001968)”， *China Economic Review*， 2025
+“[Urban Fragmentation and Innovation Collaboration: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1043951X25001968)”， *China&nbsp;Economic&nbsp;Review*，&nbsp;2025
 
 with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and Shan Zhao
 

@@ -21,8 +21,6 @@ Welcome! My name is <span style="font-size: 1.6em; font-weight: bold;">Ruichi Xi
 
 I am an assistant professor at the Economics and Management School of Wuhan University. I received my Ph.D. from the Rotman School of Management at the University of Toronto.
 
-I study how people, capital, and ideas move across regions and firms through various networks — diaspora, urban, and transportation — and how these flows shape foreign investment, firm creation, innovation activity, and long-run development.
-
 <ins>Research fields</ins>: Science, Innovation, and Growth.
 
 Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf?v=7" target="_blank">CV</a>.

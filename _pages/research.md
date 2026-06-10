@@ -38,7 +38,7 @@ with Xijiang Su
 
 <p>&nbsp;</p>
 
-“[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://www.sciencedirect.com/science/article/pii/S0022199626000838)”， *Journal&nbsp;of&nbsp;International&nbsp;Economics*，&nbsp;forthcoming
+“[Familiar Strangers: The Role of Diaspora Networks in Foreign Investment and Long-run Development](https://www.sciencedirect.com/science/article/pii/S0022199626000838)”， *Journal&nbsp;of&nbsp;International&nbsp;Economics*，&nbsp;2026
 
 with [Fanghao Chen](https://fanghaochen.github.io/homepage/) and [Xiaobo Zhang](https://en.gsm.pku.edu.cn/conjsxq.jsp?urltype=tree.TreeTempUrl&wbtreeid=1099&user_id=x.zhang)
 

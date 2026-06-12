@@ -44,7 +44,7 @@ Xijiang Su, Ruichi Xiong
 
 Fanghao Chen, Ruichi Xiong, Xiaobo Zhang
 
-*Journal&nbsp;of&nbsp;International&nbsp;Economics*，&nbsp;2026
+*Journal of International Economics*, 2026
 
 
 <p>&nbsp;</p>
@@ -53,7 +53,7 @@ Fanghao Chen, Ruichi Xiong, Xiaobo Zhang
 
 Fanghao Chen, Ruichi Xiong, Shan Zhao
 
-*China&nbsp;Economic&nbsp;Review*，&nbsp;2025
+*China Economic Review*, 2025
 
 
 <p>&nbsp;</p>
@@ -62,5 +62,5 @@ Fanghao Chen, Ruichi Xiong, Shan Zhao
 
 陈方豪, 熊瑞驰
 
-*中国经济学*，&nbsp;2022
+*中国经济学*, 2022
 

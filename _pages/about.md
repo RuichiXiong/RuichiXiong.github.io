@@ -23,4 +23,4 @@ I am an assistant professor at the Economics and Management School of Wuhan Univ
 
 <ins>Research fields</ins>: Science, Innovation, and Growth.
 
-Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf?v=10" target="_blank">CV</a>.
+Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

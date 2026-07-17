@@ -13,6 +13,13 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
+<a href="{{ site.url }}/assets/pdf/ai_tacit.pdf" target="_blank">Tax the Doing, Subsidize the Telling: Optimal AI Policy and the Codifiability of Skills</a>
+
+Zhongchen Fan, Ruichi Xiong
+
+
+<p>&nbsp;</p>
+
 <a href="{{ site.url }}/assets/pdf/jmp.pdf" target="_blank">Interregional Accessibility and Firm Creation in the Fragmented Economy</a>
 
 Ruichi Xiong

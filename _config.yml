@@ -78,9 +78,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
+# Disabled: the al-folio demo Medium feed was importing template posts that
+# Google indexed (e.g. /blog/2022/, "displaying external posts...").
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -166,7 +166,7 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [] # disabled: no blog, so don't generate /blog/:year, /blog/tag, /blog/category archive pages.
   layouts:
     year: archive-year
     tag: archive-tag

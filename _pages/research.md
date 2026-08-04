@@ -13,7 +13,7 @@ nav_order: 2
 
 <p>&nbsp;</p>
 
-<a href="{{ site.url }}/assets/pdf/ai_tacit.pdf" target="_blank">Tax the Doing, Subsidize the Telling: Optimal AI Policy and the Codifiability of Skills</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7133078" target="_blank">Tax the Doing, Subsidize the Telling: Optimal AI Policy and the Codifiability of Skills</a>
 
 Zhongchen Fan, Ruichi Xiong
 

@@ -236,6 +236,8 @@ blockquote {
   }
   .navbar-brand {
     color: var(--global-text-color);
+    font-size: 1.5rem; // same size as the nav links
+    font-weight: 500;
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);

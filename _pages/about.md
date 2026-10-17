@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   image: home.jpg # portrait photo, shown on phones
-  image_wide: home-wide.jpg # 3:1 strip cut from the same photo, shown on wider screens
+  image_wide: home-wide.jpg # 3:2 crop of the same photo, shown on wider screens
   image_alt: Stone path through a pine forest
 
 ---

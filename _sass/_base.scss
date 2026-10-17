@@ -116,13 +116,6 @@ blockquote {
   margin-left: 1rem;
   width: 100%;
 
-  img {
-    // Landscape crop keeps the photo about as tall as the short intro beside it.
-    aspect-ratio: 5 / 4;
-    object-fit: cover;
-    object-position: 50% 70%;
-  }
-
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -136,10 +129,47 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 25%;
+    width: 30%;
     .address {
       p { display: block; }
     }
+  }
+}
+
+// Homepage: full-page background photo with the intro on a card
+
+.home-bg {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  background-size: cover;
+  background-position: 50% 65%;
+}
+
+.home-center {
+  display: flex;
+  align-items: center;
+  min-height: calc(100vh - 155px); // viewport minus fixed navbar, top margin and fixed footer
+}
+
+.home-card {
+  max-width: 620px;
+  padding: 2rem 2.5rem;
+  background: rgba(255, 255, 255, 0.94);
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .home-card {
+    padding: 1.5rem;
   }
 }
 

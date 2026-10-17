@@ -5,9 +5,7 @@ permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: home.jpg
-  image_circular: false # crops the image to make it circular
+  image: home.jpg # full-page background photo
 
 ---
 

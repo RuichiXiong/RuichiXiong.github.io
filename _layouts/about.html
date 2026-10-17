@@ -3,40 +3,16 @@ layout: default
 ---
 
 <!-- about.html -->
-      <div class="post">
+      {%- if page.profile.image %}
+      <!-- Full-page background photo -->
+      <div class="home-bg" style="background-image: url('{{ page.profile.image | prepend: '/assets/img/' | relative_url }}');"></div>
+      {%- endif %}
+
+      <div class="post home-center">
         <!-- The name is shown in the navbar; keep a heading for screen readers and search engines. -->
         <h1 class="sr-only">{{ site.title }}</h1>
 
-        <article>
-          {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-
-              {% if page.profile.image_cicular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-              {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-              {% endif %}
-
-              {% include figure.html 
-              path=profile_image_path 
-              class=profile_image_class
-              alt=page.profile.image -%}
-            {% endif -%}
-            {%- if page.profile.address %}
-            <div class="address">
-              {{ page.profile.address }}
-            </div>
-            {%- endif %}
-          </div>
-
-          <div class="clearfix">
-            {{ content }}
-          </div>
-            
-          </div>
-          {%- endif %}
+        <article class="home-card">
+          {{ content }}
         </article>
-
-</div>
+      </div>

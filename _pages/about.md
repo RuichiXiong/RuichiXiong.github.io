@@ -15,10 +15,8 @@ profile:
     
 ---
 
-<p>&nbsp;</p>
-
 I am an associate professor (untenured) at the Economics and Management School of Wuhan University.
 
-<ins>Research fields</ins>: Science, Innovation, and Growth.
+**Research fields**: Science, Innovation, and Growth.
 
 Here is my <a href="{{ site.url }}/assets/pdf/cv.pdf" target="_blank">CV</a>.

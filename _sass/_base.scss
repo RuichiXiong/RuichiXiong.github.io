@@ -116,6 +116,13 @@ blockquote {
   margin-left: 1rem;
   width: 100%;
 
+  img {
+    // Landscape crop keeps the photo about as tall as the short intro beside it.
+    aspect-ratio: 5 / 4;
+    object-fit: cover;
+    object-position: 50% 70%;
+  }
+
   .address {
     margin-bottom: 5px;
     margin-top: 5px;

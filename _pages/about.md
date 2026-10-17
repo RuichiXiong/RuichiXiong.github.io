@@ -17,9 +17,7 @@ profile:
 
 <p>&nbsp;</p>
 
-Welcome! My name is <span style="font-size: 1.6em; font-weight: bold;">Ruichi Xiong</span>.
-
-I am an assistant professor at the Economics and Management School of Wuhan University. I received my Ph.D. from the Rotman School of Management at the University of Toronto.
+I am an associate professor (untenured) at the Economics and Management School of Wuhan University.
 
 <ins>Research fields</ins>: Science, Innovation, and Growth.
 

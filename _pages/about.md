@@ -14,6 +14,6 @@ I am an associate professor (untenured) at the Economics and Management School o
 
 **Research fields**: Science, Innovation, and Growth.
 
-**Email**: <a href="mailto:ruichixiong@whu.edu.cn">ruichixiong@whu.edu.cn</a>
+**Email**: ruichixiong@whu.edu.cn
 
 **Address**: Luojia Hill, Wuhan, 430072, China

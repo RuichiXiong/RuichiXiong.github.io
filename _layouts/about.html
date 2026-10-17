@@ -3,16 +3,15 @@ layout: default
 ---
 
 <!-- about.html -->
-      {%- if page.profile.image %}
-      <!-- Full-page background photo -->
-      <div class="home-bg" style="background-image: url('{{ page.profile.image | prepend: '/assets/img/' | relative_url }}');"></div>
-      {%- endif %}
-
       <div class="post home-center">
         <!-- The name is shown in the navbar; keep a heading for screen readers and search engines. -->
         <h1 class="sr-only">{{ site.title }}</h1>
 
-        <article class="home-card">
+        <article class="home-intro">
           {{ content }}
         </article>
+
+        {%- if page.profile.image %}
+        <img class="home-photo" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" alt="{{ page.profile.image_alt }}">
+        {%- endif %}
       </div>

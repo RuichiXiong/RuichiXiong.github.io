@@ -136,34 +136,19 @@ blockquote {
   }
 }
 
-// Homepage: full-page background photo with the intro on a card
-
-.home-bg {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
-  background-size: cover;
-  background-position: 50% 65%;
-}
+// Homepage: intro and photo side by side, centered together as one group
 
 .home-center {
   display: flex;
   align-items: center;
+  justify-content: center;
+  gap: 4rem;
   min-height: calc(100vh - 155px); // viewport minus fixed navbar, top margin and fixed footer
-  padding-bottom: 2rem; // sit slightly above true center, which reads as centered
+  padding-bottom: 1rem;
 }
 
-// Narrow enough to stay left of the flag at the top of the path (about 46% across the photo).
-.home-card {
-  width: 100%;
-  max-width: 460px;
-  padding: 2rem;
-  background: rgba(255, 255, 255, 0.94);
-  border-radius: 8px;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
+.home-intro {
+  flex: 0 1 440px;
 
   p {
     font-size: 1.1rem;
@@ -174,15 +159,33 @@ blockquote {
   }
 }
 
-@media (min-width: 768px) and (max-width: 1099px) {
-  .home-card {
-    max-width: 42vw;
-  }
+// Shown whole at its natural 3:4 shape, sized to the window height.
+.home-photo {
+  flex-shrink: 0;
+  height: 72vh;
+  max-height: 600px;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
 }
 
-@media (max-width: 575px) {
-  .home-card {
-    padding: 1.5rem;
+// Narrow screens: stack the intro above the photo.
+@media (max-width: 991px) {
+  .home-center {
+    flex-direction: column;
+    gap: 2rem;
+    padding-top: 1rem;
+  }
+  .home-intro {
+    flex-basis: auto;
+    max-width: 440px;
+  }
+  .home-photo {
+    width: 100%;
+    max-width: 440px;
+    height: auto;
+    max-height: none;
   }
 }
 

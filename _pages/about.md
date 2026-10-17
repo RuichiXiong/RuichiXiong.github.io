@@ -5,7 +5,8 @@ permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  image: home.jpg # full-page background photo
+  image: home.jpg # photo shown beside the intro
+  image_alt: Stone path through a pine forest
 
 ---
 

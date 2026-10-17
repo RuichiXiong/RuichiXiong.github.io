@@ -208,6 +208,13 @@ blockquote {
   }
 }
 
+// Pages using the `page` layout (Research): a centered column, text still left-aligned.
+// Same width as the homepage intro, and wide enough for the longest paper title (~830px).
+.page-column {
+  max-width: 880px;
+  margin: 0 auto;
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;

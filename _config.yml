@@ -218,7 +218,7 @@ max_author_limit: 3
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # disabled: the deploy build never produced the -480/-1000/-1400.webp files, so <picture> pointed at 404s and the photo broke on screens <= 1400px wide.
   widths:
     - 480
     - 1000

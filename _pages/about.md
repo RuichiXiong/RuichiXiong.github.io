@@ -5,7 +5,8 @@ permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  image: home.jpg # photo shown beside the intro
+  image: home.jpg # portrait photo, shown on phones
+  image_wide: home-wide.jpg # 3:1 strip cut from the same photo, shown on wider screens
   image_alt: Stone path through a pine forest
 
 ---

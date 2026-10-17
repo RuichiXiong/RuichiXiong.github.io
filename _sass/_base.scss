@@ -136,19 +136,21 @@ blockquote {
   }
 }
 
-// Homepage: intro and photo side by side, centered together as one group
+// Homepage: intro centered above a wide photo strip
 
 .home-center {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 4rem;
+  gap: 1.75rem;
   min-height: calc(100vh - 155px); // viewport minus fixed navbar, top margin and fixed footer
   padding-bottom: 1rem;
 }
 
 .home-intro {
-  flex: 0 1 440px;
+  max-width: 880px; // wide enough to keep the first sentence (~820px) on one line
+  text-align: center;
 
   p {
     font-size: 1.1rem;
@@ -159,33 +161,40 @@ blockquote {
   }
 }
 
-// Shown whole at its natural 3:4 shape, sized to the window height.
+// Let the <img> inside the <picture> be the flex item. Browsers don't hide <source> by
+// default, so without display: none it would become an empty flex item and add a gap.
+.home-picture {
+  display: contents;
+
+  source {
+    display: none;
+  }
+}
+
+// 3:1 strip sized to the height left under the intro, so both fit on one screen.
 .home-photo {
-  flex-shrink: 0;
-  height: 72vh;
-  max-height: 600px;
-  aspect-ratio: 3 / 4;
+  height: calc(100vh - 360px);
+  min-height: 200px;
+  max-height: 340px;
+  max-width: 100%;
+  aspect-ratio: 3 / 1;
   object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
 }
 
-// Narrow screens: stack the intro above the photo.
-@media (max-width: 991px) {
+// Phones get the portrait photo instead (the <picture> in about.html swaps it).
+@media (max-width: 767px) {
   .home-center {
-    flex-direction: column;
-    gap: 2rem;
     padding-top: 1rem;
-  }
-  .home-intro {
-    flex-basis: auto;
-    max-width: 440px;
   }
   .home-photo {
     width: 100%;
     max-width: 440px;
     height: auto;
+    min-height: 0;
     max-height: none;
+    aspect-ratio: 3 / 4;
   }
 }
 

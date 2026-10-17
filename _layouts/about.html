@@ -12,6 +12,11 @@ layout: default
         </article>
 
         {%- if page.profile.image %}
-        <img class="home-photo" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" alt="{{ page.profile.image_alt }}">
+        <picture class="home-picture">
+          {%- if page.profile.image_wide %}
+          <source media="(min-width: 768px)" srcset="{{ page.profile.image_wide | prepend: '/assets/img/' | relative_url }}">
+          {%- endif %}
+          <img class="home-photo" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" alt="{{ page.profile.image_alt }}">
+        </picture>
         {%- endif %}
       </div>
